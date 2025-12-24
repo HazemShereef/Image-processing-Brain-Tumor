@@ -95,5 +95,3 @@ The project compares the performance of a **custom-built CNN model** with a **pr
 - Tkinter
 
 ---
-
-## Project Structure
